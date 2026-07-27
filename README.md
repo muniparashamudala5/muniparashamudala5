@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4338CA,100:06B6D4&height=220&section=header&text=Muni%20Parasha%20Amudala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4338CA,100:06B6D4&height=220&section=header&text=MUNI%20PARASH%20AMUDALA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Computer+Vision+%7C+NLP+%7C+RAG+Systems;B.Tech+CSE+(AI+%26+ML)+%40+SVCE;Turning+Data+into+Deployable+Intelligence" alt="Typing SVG" />
@@ -131,7 +131,7 @@ Built the full pipeline — chunking strategy, embedding generation, and retriev
 ### 💼 Experience
 
 **Machine Learning Intern** · Crodvtech
-`Sept 2025 – March 2026 (6 months)`
+`Oct 2025 – April 2026 (6 months)`
 
 Developed predictive models on datasets exceeding 200,000 records, taking them from raw data to production-ready inference endpoints.
 
